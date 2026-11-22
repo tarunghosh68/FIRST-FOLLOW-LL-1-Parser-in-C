@@ -65,7 +65,7 @@ gcc -std=c11 FirstFollow_LL1_fixed.c -o parser
 ### 2. Run
 
 ```bash
-parser.exe
+FirstFollow_LL1_fixed.exe
 ```
 
 ### 3. Enter Grammar
